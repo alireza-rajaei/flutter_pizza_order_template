@@ -1,4 +1,4 @@
-![](https://github.com/alireza-rajaei/flutter_pizza_order_template/blob/master/assets/images/banner.jpg)
+![](https://github.com/alireza-rajaei/flutter_pizza_order_template/blob/master/assets/images/banner1.jpg)
 
 Installation
 
